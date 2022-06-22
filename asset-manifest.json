@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.7677222a.chunk.css",
-    "main.js": "/static/js/main.02699da9.chunk.js",
-    "main.js.map": "/static/js/main.02699da9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a1f57a23.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a1f57a23.js.map",
-    "static/js/2.e95ce02a.chunk.js": "/static/js/2.e95ce02a.chunk.js",
-    "static/js/2.e95ce02a.chunk.js.map": "/static/js/2.e95ce02a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.71b04cb2c4d034d85c17a6652fcf8e7e.js": "/precache-manifest.71b04cb2c4d034d85c17a6652fcf8e7e.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.7677222a.chunk.css.map": "/static/css/main.7677222a.chunk.css.map",
-    "static/js/2.e95ce02a.chunk.js.LICENSE.txt": "/static/js/2.e95ce02a.chunk.js.LICENSE.txt",
-    "static/js/main.02699da9.chunk.js.LICENSE.txt": "/static/js/main.02699da9.chunk.js.LICENSE.txt",
-    "static/media/TwentyFourtyEight.css": "/static/media/undo.e263bfe9.svg"
+    "main.css": "/2048-Clone/static/css/main.9d0f99b7.chunk.css",
+    "main.js": "/2048-Clone/static/js/main.4297923a.chunk.js",
+    "main.js.map": "/2048-Clone/static/js/main.4297923a.chunk.js.map",
+    "runtime-main.js": "/2048-Clone/static/js/runtime-main.aeb02157.js",
+    "runtime-main.js.map": "/2048-Clone/static/js/runtime-main.aeb02157.js.map",
+    "static/js/2.293da6e7.chunk.js": "/2048-Clone/static/js/2.293da6e7.chunk.js",
+    "static/js/2.293da6e7.chunk.js.map": "/2048-Clone/static/js/2.293da6e7.chunk.js.map",
+    "index.html": "/2048-Clone/index.html",
+    "precache-manifest.93ab6c7a094351aec9fbba3a3e532862.js": "/2048-Clone/precache-manifest.93ab6c7a094351aec9fbba3a3e532862.js",
+    "service-worker.js": "/2048-Clone/service-worker.js",
+    "static/css/main.9d0f99b7.chunk.css.map": "/2048-Clone/static/css/main.9d0f99b7.chunk.css.map",
+    "static/js/2.293da6e7.chunk.js.LICENSE.txt": "/2048-Clone/static/js/2.293da6e7.chunk.js.LICENSE.txt",
+    "static/js/main.4297923a.chunk.js.LICENSE.txt": "/2048-Clone/static/js/main.4297923a.chunk.js.LICENSE.txt",
+    "static/media/TwentyFourtyEight.css": "/2048-Clone/static/media/undo.e263bfe9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a1f57a23.js",
-    "static/js/2.e95ce02a.chunk.js",
-    "static/css/main.7677222a.chunk.css",
-    "static/js/main.02699da9.chunk.js"
+    "static/js/runtime-main.aeb02157.js",
+    "static/js/2.293da6e7.chunk.js",
+    "static/css/main.9d0f99b7.chunk.css",
+    "static/js/main.4297923a.chunk.js"
   ]
 }
