@@ -1,7 +1,7 @@
 {
   "name": "twenty-fourtyeight-react",
   "version": "0.1.0",
-  "homepage": "https://niemiya.github.io/#/2048-Clone",
+  "homepage": "https://niemiya.github.io/2048-Clone",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
